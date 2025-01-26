@@ -30,7 +30,7 @@ fun BarreMenu(navController: NavController, drawerState: DrawerState, scope: Cor
         modifier = Modifier
             .fillMaxHeight()
             .fillMaxWidth(0.25f)
-            .background(ThemeChildhood.tUnBlueDark, shape = RoundedCornerShape(topEnd = 20.dp)),
+            .background(ThemeChildhood.tUnBlueDark, shape = RoundedCornerShape(topEnd = 18.dp)),
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Top,
     ) {
