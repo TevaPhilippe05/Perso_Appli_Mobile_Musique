@@ -13,5 +13,5 @@ Il s'agit de mon projet Jetpack Compose. J'ai perdu tout mes travaux sur le pré
 ## Crédit :
 [Philippe Teva](https://github.com/TevaPhilippe05)
 
-Mention spéciale :
+## Mention spéciale :
 [Noah Penin](https://github.com/enteraname74) <- Étudiant en Master 2  l'USMB qui m'a aidé à me lancer sur Kotlin.
