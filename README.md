@@ -4,10 +4,9 @@ Il s'agit de mon projet Jetpack Compose. J'ai perdu tout mes travaux sur le pré
 
 ## Ancienne version
 
-<img src="README_Assets/Ancien_Accueil.jpg" alt="Ancien Accueil" style="width:50%;"/>
-![Ancien_BarreMenu1](README_Assets/Ancien_Barre_Menu1.jpg)
-![Ancien_BarreMenu2](README_Assets/Ancien_Barre_Menu2.jpg)
-
+<img src="README_Assets/Ancien_Accueil.jpg" alt="Ancien Accueil" style="width:30%;"/>
+<img src="README_Assets/Ancien_Barre_Menu1.jpg" alt="Ancien_BarreMenu1" style="width:30%;"/>
+<img src="README_Assets/Ancien_Barre_Menu2.jpg" alt="Ancien_BarreMenu2" style="width:30%;"/>
 
 ## Avancement de la reconstruction
 
