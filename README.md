@@ -4,11 +4,11 @@ Il s'agit de mon projet Jetpack Compose. J'ai perdu tout mes travaux sur le pré
 
 ## Ancienne version
 
-<img src="README_Assets/Ancien_Accueil.jpg" alt="Ancien Accueil" style="width:30%;"/> <img src="README_Assets/Ancien_Barre_Menu1.jpg" alt="Ancien_BarreMenu1" style="width:30%;"/> <img src="README_Assets/Ancien_Barre_Menu2.jpg" alt="Ancien_BarreMenu2" style="width:30%;"/>
+<img src="README_Assets/Ancien_Accueil.jpg" alt="Ancien Accueil" style="width:30%; margin-right:3%;"/> <img src="README_Assets/Ancien_Barre_Menu1.jpg" alt="Ancien_BarreMenu1" style="width:30%; margin-right:3%;"/> <img src="README_Assets/Ancien_Barre_Menu2.jpg" alt="Ancien_BarreMenu2" style="width:30%;"/>
 
 ## Avancement de la reconstruction
 
-<img src="README_Assets/New_Accueil.jpg" alt="New Accueil" style="width:30%;"/> <img src="README_Assets/New_Barre_Menu1.jpg" alt="New_BarreMenu1" style="width:30%;"/> <img src="README_Assets/New_Barre_Menu2.jpg" alt="New_BarreMenu2" style="width:30%;"/>
+<img src="README_Assets/New_Accueil.jpg" alt="New Accueil" style="width:30%; margin-right:3%;"/> <img src="README_Assets/New_Barre_Menu1.jpg" alt="New_BarreMenu1" style="width:30%; margin-right:3%;"/> <img src="README_Assets/New_Barre_Menu2.jpg" alt="New_BarreMenu2" style="width:30%;"/>
 
 ## Crédit :
 [Philippe Teva](https://github.com/TevaPhilippe05)
