@@ -11,7 +11,7 @@ Il s'agit de mon projet Jetpack Compose. J'ai perdu tout mes travaux sur le pré
 <img src="README_Assets/New_Accueil.jpg" alt="New Accueil" style="width:33%; margin-right:10%;"/> <img src="README_Assets/New_Barre_Menu1.jpg" alt="New_BarreMenu1" style="width:33%; margin-right:10%;"/> <img src="README_Assets/New_Barre_Menu2.jpg" alt="New_BarreMenu2" style="width:33%;"/>
 
 ## Crédit :
-[Philippe Teva](https://github.com/TevaPhilippe05)
+[PHILIPPE Teva](https://github.com/TevaPhilippe05)
 
 ## Mention spéciale :
-[Noah Penin](https://github.com/enteraname74) <- Étudiant en Master 2  l'USMB qui m'a aidé à me lancer sur Kotlin.
+[PENIN Noah](https://github.com/enteraname74) <- Étudiant en Master 2  l'USMB qui m'a aidé à me lancer sur Kotlin.
