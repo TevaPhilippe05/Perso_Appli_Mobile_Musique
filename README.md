@@ -4,7 +4,7 @@ Il s'agit de mon projet Jetpack Compose. J'ai perdu tout mes travaux sur le pré
 
 ## Ancienne version
 
-![Ancien_Accueil](README_Assets/Ancien_Accueil.jpg)
+<img src="README_Assets/Ancien_Accueil.jpg" alt="Ancien Accueil" style="width:50%;"/>
 ![Ancien_BarreMenu1](README_Assets/Ancien_Barre_Menu1.jpg)
 ![Ancien_BarreMenu2](README_Assets/Ancien_Barre_Menu2.jpg)
 
