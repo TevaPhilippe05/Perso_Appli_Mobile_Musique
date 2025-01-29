@@ -21,6 +21,10 @@ import kotlinx.coroutines.launch
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.MusicNote
 import androidx.compose.material.icons.rounded.Message
+import androidx.compose.material.icons.rounded.ReceiptLong
+import androidx.compose.material.icons.rounded.CalendarMonth
+import androidx.compose.material.icons.rounded.ArtTrack
+import androidx.compose.material.icons.rounded.HelpOutline
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.shape.RoundedCornerShape
 
@@ -52,7 +56,7 @@ fun BarreMenu(navController: NavController, drawerState: DrawerState, scope: Cor
             scope = scope
         )
 
-        // Messages
+        // Message
         IconesBarreMenu(
             navController = navController,
             image = Icons.Rounded.Message,
@@ -61,7 +65,41 @@ fun BarreMenu(navController: NavController, drawerState: DrawerState, scope: Cor
             scope = scope
         )
 
-        // Ajouter d'autres options ici si nécessaire
+        // Note
+        IconesBarreMenu(
+            navController = navController,
+            image = Icons.Rounded.ReceiptLong,
+            page = "PageAccueilNote",
+            drawerState = drawerState,
+            scope = scope
+        )
+
+        // Agenda
+        IconesBarreMenu(
+            navController = navController,
+            image = Icons.Rounded.CalendarMonth,
+            page = "PageAccueilAgenda",
+            drawerState = drawerState,
+            scope = scope
+        )
+
+        // Blog
+        IconesBarreMenu(
+            navController = navController,
+            image = Icons.Rounded.ArtTrack,
+            page = "PageAccueilBlog",
+            drawerState = drawerState,
+            scope = scope
+        )
+
+        // Aide
+        IconesBarreMenu(
+            navController = navController,
+            image = Icons.Rounded.HelpOutline,
+            page = "PageAccueilAide",
+            drawerState = drawerState,
+            scope = scope
+        )
     }
 }
 

@@ -1,5 +1,6 @@
 package com.example.perso_appli_mobile_musique
 
+import android.annotation.SuppressLint
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -11,6 +12,10 @@ import androidx.navigation.compose.rememberNavController
 import com.example.perso_appli_mobile_musique.components.BarreMenu
 import com.example.perso_appli_mobile_musique.pages.PageAccueilMusique
 import com.example.perso_appli_mobile_musique.pages.PageAccueilMessages
+import com.example.perso_appli_mobile_musique.pages.PageAccueilNote
+import com.example.perso_appli_mobile_musique.pages.PageAccueilBlog
+import com.example.perso_appli_mobile_musique.pages.PageAccueilAgenda
+import com.example.perso_appli_mobile_musique.pages.PageAccueilAide
 import com.example.perso_appli_mobile_musique.ui.theme.AppliMusiqueTheme
 import androidx.compose.material3.DrawerValue
 import androidx.compose.material3.Scaffold
@@ -21,6 +26,7 @@ import androidx.navigation.compose.composable
 import kotlinx.coroutines.CoroutineScope
 
 class MainActivity : ComponentActivity() {
+    @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
@@ -53,7 +59,26 @@ class MainActivity : ComponentActivity() {
                                             navController
                                         )
                                     }
-                                    // Ajouter d'autres pages ici si nécessaire
+                                    composable("PageAccueilNote") {
+                                        PageAccueilNote(
+                                            navController
+                                        )
+                                    }
+                                    composable("PageAccueilAgenda") {
+                                        PageAccueilAgenda(
+                                            navController
+                                        )
+                                    }
+                                    composable("PageAccueilBlog") {
+                                        PageAccueilBlog(
+                                            navController
+                                        )
+                                    }
+                                    composable("PageAccueilAide") {
+                                        PageAccueilAide(
+                                            navController
+                                        )
+                                    }
                                 }
                             }
                         )
